@@ -58,13 +58,6 @@ This is a simple REST API that list the list the languages used by the 100 based
 
 Now the API is working on [http://localhost:8100/](http://localhost:8100/)
 
-## Documentation
-The documenation is built with Swagger UI, A beautiful and interactive documentation
-check this url [documentation](http://localhost:8100/docs)
-![Image of API DOCS](image/Swagger_1 (1).PNG)
-![Image of API DOCS](image/Swagger_1 (2).PNG)
-![Image of API DOCS](image/Swagger_1 (3).PNG)
-
 
 ## Entry points
 | Entry point | description|
