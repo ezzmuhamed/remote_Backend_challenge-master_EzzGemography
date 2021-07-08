@@ -21,8 +21,8 @@ Ezzeldin Muhammed ([ezzmuhamed](https://github.com/ezzmuhamed))
 
 ## About the challenge
 
-[Gemography backend-coding-challenge](https://github.com/hiddenfounders/backend-coding-challenge) is about creating REST microservice that list the languages used by the 100 trending public repos on GitHub.
-- For every language, we need to calculate the attributes below 👇:
+[Gemography backend-coding-challenge](https://github.com/gemography/backend-coding-challenge/blob/master/README.md) is about creating REST microservice that list the languages used by the 100 trending public repos on GitHub.
+- For every language, we need to calculate the attributes below 👇:https://github.com/gemography/backend-coding-challenge/blob/master/README.md
     - Number of repos using this language
     - The list of repos using the language
  
